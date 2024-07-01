@@ -10,10 +10,10 @@
 ---
 
 Gosto muito de tecnologia, games, economia, animais e animes.
-Escrevo sobre economia e análise/ciência de dados no meu blog no [Meu perfil no Medium.](https://medium.com/@adrianomsn)
+Escrevo sobre economia e análise/ciência de dados no  [meu perfil no Medium.](https://medium.com/@adrianomsn)
 
 
 
 
-Acesso também o [Meu perfil no LinkedIn!](https://www.linkedin.com/in/adrianomsn/)
+Acesso também o [meu perfil no LinkedIn!](https://www.linkedin.com/in/adrianomsn/)
 
