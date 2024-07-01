@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨🏾‍💻 Bem vindo ao meu repositório de projetos no GitHub. 🧙🏾‍♂️
+# 📉  Me chamo Adriano Neto, prazer!
+<img src = "banner.gif" width = "325px" align = "right">
 
-<!--
-**adrianomsn/adrianomsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 Bacharel em Ciências Econômicas pela UFC.
+- 🎲 Entusiasta da área de dados desde 2021.
+- 🔬 Atuei como analista de dados em áreas da educação infantil, prevenção de violência e criminalidade, saúde mental com foco em políticas públicas.
+- 💻 Domínio em R, Python, SQL, Power BI e Excel.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto muito de tecnologia, games, economia, animais e animes.
+Escrevo sobre economia e análise/ciência de dados no meu blog no [Meu perfil no Medium.](https://medium.com/@adrianomsn)
+
+
+
+
+Acesso também o [Meu perfil no LinkedIn!](https://www.linkedin.com/in/adrianomsn/)
+
