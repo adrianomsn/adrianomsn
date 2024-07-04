@@ -13,7 +13,7 @@
 
 - 📊 Bacharel em Ciências Econômicas pela UFC.
 - 🎲 Entusiasta da área de dados desde 2021.
-- 🔬 Atuei como analista de dados em áreas da educação infantil, prevenção de violência e criminalidade, saúde mental com foco em políticas públicas. Em projetos pessoais e acadêmicos analise área de finanças, agropecuária, análise espacial, extrema pobreza e negócios.
+- 🔬 Atuei como analista de dados em áreas da educação infantil, prevenção de violência e criminalidade, saúde mental, análise espacial, setor agropecuário e extrema pobreza, com foco em políticas públicas.
 - 💻 Domínio em R, Python, SQL, Power BI e Excel.
 
 ---
