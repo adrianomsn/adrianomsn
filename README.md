@@ -19,7 +19,7 @@
     - Competências Socioemocionais.
     - Análise espacial do setor agropecuário e extrema pobreza.
     - Gestão em saúde.
-- 💻 Domínio em R, Python, SQL(MySQL, SQL Server, PostgreSQL), Power BI, Looker Studio e Excel.
+- 💻 Domínio em R, Python, SQL(MySQL, SQL Server, PostgreSQL), Power BI, Looker Studio, AWS e Excel.
 
 ---
 
