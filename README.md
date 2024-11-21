@@ -5,19 +5,18 @@ Oi visitante! Me chamo Adriano e sou Economista e Analista de Dados.
 - Bacharel em Ciências Econômicas pela UFC.
     - Aluno agraciado com distinção Magna Cum Laude.
 - Entusiasta da área de dados desde 2021.
-- Áreas de atuação profissional como Analista de Dados com modelos de inferência causal e machine learning:
+- Áreas que já atuei profissionalmente:
     - Educação infantil
     - Prevenção de violência e criminalidade
     - Competências Socioemocionais
-    - Análise espacial do setor agropecuário e extrema pobreza
+    - Análise Espacial do setor agropecuário e extrema pobreza
     - IA em Gestão de Saúde
 - Stack:
     - R
     - Python
     - SQL: MySQL, SQL Server, PostgreSQL
     - Power BI, Looker Studio, Apache Superset
-    - Amazon Redshift, Lambda, S3, C2, EventBridge, CloudWatch
-    - Google Cloud Platform
+    - AWS, GCP
     - Excel, Google Sheets
     - Apache Airflow, Airbyte e Azure DevOps
 
