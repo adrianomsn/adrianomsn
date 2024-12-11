@@ -10,7 +10,7 @@ Oi visitante! Me chamo Adriano e sou Economista e Analista de Dados.
     - Prevenção de violência e criminalidade
     - Competências Socioemocionais
     - Análise Espacial do setor agropecuário e extrema pobreza
-    - IA em Gestão de Saúde
+    - Gestão de Saúde
 - Stack:
     - R
     - Python
