@@ -1,6 +1,6 @@
 ## Resumo geral
 
-Oi visitante! Me chamo Adriano e sou Economista e Analista de Dados.
+Oi visitante! Me chamo Adriano, sou apaixonado pela area de dados, formado em Economia e Analista de Dados.
 
 - Bacharel em Ciências Econômicas pela UFC.
     - Aluno agraciado com distinção Magna Cum Laude.
