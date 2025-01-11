@@ -10,7 +10,7 @@ Oi visitante! Me chamo Adriano, sou apaixonado pela area de dados, formado em Ec
     - Prevenção de violência e criminalidade
     - Competências Socioemocionais
     - Análise Espacial do setor agropecuário e extrema pobreza
-    - Gestão de Saúde
+    - Gestão em Saúde
 - Stack:
     - R
     - Python
