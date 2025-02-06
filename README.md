@@ -19,7 +19,8 @@ Oi visitante! Me chamo Adriano, sou apaixonado pela area de dados, formado em Ec
     - Git
     - Excel, Google Sheets
     - Apache Airflow, Airbyte
-    - Gestão de tarefas - Azure DevOps/Jira
+    - Gestão de tarefas - Azure DevOps/Jira\
+    - Docker
     
 
 
