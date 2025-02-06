@@ -9,16 +9,18 @@ Oi visitante! Me chamo Adriano, sou apaixonado pela area de dados, formado em Ec
     - Educação infantil
     - Prevenção de violência e criminalidade
     - Competências Socioemocionais
-    - Análise Espacial do setor agropecuário e extrema pobreza
-    - Gestão em Saúde
+    - Algoritmos de regressão linear, classificação, espacial
+    - Gestão em Saúde Suplementar
 - Stack:
-    - R
-    - Python
-    - SQL: MySQL, SQL Server, PostgreSQL
-    - Power BI, Looker Studio, Apache Superset
+    - Python, R
+    - SQL: MySQL, SQL Server, PostgreSQL, Redshift
+    - Power BI, Looker Studio, Apache Superset, Tableau
     - AWS, GCP
+    - Git
     - Excel, Google Sheets
-    - Apache Airflow, Airbyte e Azure DevOps
+    - Apache Airflow, Airbyte
+    - Gestão de tarefas - Azure DevOps/Jira
+    
 
 
 
@@ -32,6 +34,10 @@ Oi visitante! Me chamo Adriano, sou apaixonado pela area de dados, formado em Ec
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/looker.svg" title="Looker" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="AzureDevOps" width="60" height="40"/>&nbsp;
+  
+  
  
 </div>
 <img src = "banner.gif" width = "325px" align = "right">
