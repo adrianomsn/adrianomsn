@@ -1,26 +1,19 @@
 ## Resumo geral
 
-Oi visitante! Me chamo Adriano, sou apaixonado pela area de dados, formado em Economia e Analista de Dados.
+Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e natureza. A curiosidade é o que me move e muitas vezes faz eu saber sobre os assuntos mais aleatórios possíveis! 
 
-- Bacharel em Ciências Econômicas pela UFC.
+- Bacharel em Ciências Econômicas pela Universidade federadal do Ceará;
     - Aluno agraciado com distinção Magna Cum Laude.
 - Entusiasta da área de dados desde 2021.
-- Áreas que já atuei profissionalmente:
-    - Educação infantil
-    - Prevenção de violência e criminalidade
-    - Competências Socioemocionais
-    - Algoritmos de regressão linear, classificação, espacial
-    - Gestão em Saúde Suplementar
 - Stack:
     - Python, R
     - SQL: MySQL, SQL Server, PostgreSQL, Redshift
     - Power BI, Looker Studio, Apache Superset, Tableau
     - AWS, GCP
-    - Git
+    - Git, GitHub
     - Excel, Google Sheets
-    - Apache Airflow, Airbyte
-    - Gestão de tarefas - Azure DevOps/Jira\
-    - Docker
+    - Airflow, Docker
+    - Gestão de tarefas - Azure DevOps
     
 
 
