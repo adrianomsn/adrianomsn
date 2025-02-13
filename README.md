@@ -7,13 +7,13 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
 - Entusiasta da área de dados desde 2021;
 - Atuo como Analista de Dados e BI;
 - Tenho pleno interesse em todas as área de dados, no momento trabalho como analista de dados, mas estou estudando ciência e engenharia de dados.
-      - Estudando Machine Learning, mais especificamente treinamento de algoritmos mais complexos como redes neurais e random forest, dado que já tenho experiência com algoritmos de regressão linear, classificação e regressão espacial;
-      - Construção de pipelines com Airflow + DBT;
+      - Estudando Machine Learning, processos de engenharia de dados automatizados para ETL utilizando Airflow.
 - Stack:
     - Python, R
     - SQL: MySQL, SQL Server, PostgreSQL, Redshift
     - Power BI, Looker Studio, Apache Superset, Tableau
-    - AWS, GCP
+    - AWS
+    - BigQuery
     - Git, GitHub
     - Excel, Google Sheets
     - Airflow, Docker
@@ -21,6 +21,9 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
     
 
 
+
+</div>
+<img src = "banner.gif" width = "325px" align = "right">
 
 ---
 ### Ferramentas que domino:
@@ -37,8 +40,7 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
   
   
  
-</div>
-<img src = "banner.gif" width = "325px" align = "right">
+
 
 ### Ferramentas que estou aprendendo no momento
 <div>
