@@ -12,10 +12,10 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
     - Python, R
     - SQL: MySQL, SQL Server, PostgreSQL, Redshift, BigQuery
     - Power BI, Looker Studio, Apache Superset, Tableau
-    - AWS
+    - AWS (S3, Lambda, Redshift)
     - Git, GitHub
     - Excel, Google Sheets
-    - Airflow, Docker
+    - Airflow, Docker - Básico
     - Gestão de tarefas/Kanban - Azure DevOps
     
 
