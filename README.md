@@ -10,14 +10,13 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
       - Estudando Machine Learning, processos de engenharia de dados automatizados para ETL utilizando Airflow.
 - Stack:
     - Python, R
-    - SQL: MySQL, SQL Server, PostgreSQL, Redshift
+    - SQL: MySQL, SQL Server, PostgreSQL, Redshift, BigQuery
     - Power BI, Looker Studio, Apache Superset, Tableau
     - AWS
-    - BigQuery
     - Git, GitHub
     - Excel, Google Sheets
     - Airflow, Docker
-    - Gestão de tarefas - Azure DevOps
+    - Gestão de tarefas/Kanban - Azure DevOps
     
 
 
