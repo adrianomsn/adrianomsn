@@ -25,7 +25,7 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
 <img src = "banner.gif" width = "325px" align = "right">
 
 ---
-### Ferramentas que domino:
+### Ferramentas e linguagens que domino:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -41,7 +41,7 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
  
 
 
-### Ferramentas que estou aprendendo no momento
+### Ferramentas e linguagens que estou aprendendo no momento
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/fa1ea14ddfb1d5ae319d5141844910dd53ab2834/etc/dbt-core.svg" title="DBT" width="80" height="40"/>&nbsp;
