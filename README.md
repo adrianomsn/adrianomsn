@@ -3,11 +3,16 @@
 Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e natureza. A curiosidade é o que me move e muitas vezes faz eu saber sobre os assuntos mais aleatórios possíveis! 
 
 - Bacharel em Ciências Econômicas pela Universidade federadal do Ceará;
-    - Aluno agraciado com distinção Magna Cum Laude.
+    - Aluno agraciado com distinção Magna Cum Laude por excelente desempenho.
 - Entusiasta da área de dados desde 2021;
-- Atuo como Analista de Dados;
+- Atuo como Analista de Dados abrangendo diversas áreas, como:
+    - educação infantil;
+    - saúde mental;
+    - prevenção de criminalidade e violência;
+    - gestão em saúde suplementar;
+    - mobilidade urbana.
 - Tenho pleno interesse em todas as área de dados, no momento trabalho como analista de dados, mas estou estudando ciência e engenharia de dados. E claro sempre aperfeiçoando o meu dia-a-dia como Analista.
-      - Estudando Machine Learning, processos de engenharia de dados automatizados para ETL utilizando Airflow.
+      - Estudando Machine Learning, processos de engenharia de dados automatizados para ETL.
 - Stack:
     - Python, R
     - SQL: MySQL, SQL Server, PostgreSQL, Redshift, BigQuery
