@@ -6,7 +6,7 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
     - Aluno agraciado com distinção Magna Cum Laude por excelente desempenho.
 - Entusiasta da área de dados desde 2021;
 - Atuo como Analista de Dados abrangendo diversas áreas, como:
-    - educação infantil;
+    - educação básica;
     - saúde mental;
     - prevenção de criminalidade e violência;
     - gestão em saúde suplementar;
