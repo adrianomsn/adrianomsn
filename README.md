@@ -7,7 +7,7 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
 - Entusiasta da área de dados desde 2021;
 - Atuo como Analista de Dados abrangendo diversas áreas, como:
     - educação básica;
-    - saúde mental;
+    - competências socioemocionais;
     - prevenção de criminalidade e violência;
     - gestão em saúde suplementar;
     - mobilidade urbana.
