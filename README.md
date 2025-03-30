@@ -6,11 +6,11 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
     - Aluno agraciado com distinção Magna Cum Laude por excelente desempenho.
 - Entusiasta da área de dados desde 2021;
 - Atuo como Analista de Dados abrangendo diversas áreas, como:
-    - educação básica;
-    - competências socioemocionais;
+    - primeira infância;
+    - competências socioemocionais no ensino fundamental e anos finais;
     - prevenção de criminalidade e violência;
     - gestão em saúde suplementar;
-    - mobilidade urbana.
+    - gestãi de transportes e mobilidade urbana.
 - Tenho pleno interesse em todas as área de dados, no momento trabalho como analista de dados, mas estou estudando ciência e engenharia de dados. E claro sempre aperfeiçoando o meu dia-a-dia como Analista.
       - Estudando Machine Learning, processos de engenharia de dados automatizados para ETL.
 - Stack:
@@ -21,7 +21,7 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
     - Git, GitHub
     - Excel, Google Sheets
     - Airflow, Docker - Básico
-    - Gestão de tarefas/Kanban - Azure DevOps
+    - Kanban - Azure DevOps/GitHub
     
 
 
