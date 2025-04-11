@@ -11,13 +11,13 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
     - prevenção de criminalidade e violência;
     - gestão em saúde suplementar;
     - gestãi de transportes e mobilidade urbana.
-- Tenho pleno interesse em todas as área de dados, no momento trabalho como analista de dados, mas estou estudando ciência e engenharia de dados. E claro sempre aperfeiçoando o meu dia-a-dia como Analista.
-      - Estudando Machine Learning, processos de engenharia de dados automatizados para ETL.
+- Tenho pleno interesse na área de dados como um todo, mas com foco principal em Análise e Engenharia de dados.
+          - Buscando Aprender mais sobre DBT, Prefect, Airflow e melhorar meu conhecimento em Analytics.
 - Stack:
     - Python, R
     - SQL: MySQL, SQL Server, PostgreSQL, Redshift, BigQuery
     - Power BI, Looker Studio, Apache Superset, Tableau
-    - AWS (S3, Lambda, Redshift)
+    - AWS, GCP
     - Git, GitHub
     - Excel, Google Sheets
     - Airflow, Docker - Básico
