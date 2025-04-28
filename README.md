@@ -12,7 +12,7 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
     - gestão em saúde suplementar;
     - gestãi de transportes e mobilidade urbana.
 - Tenho pleno interesse na área de dados como um todo, mas com foco principal em Análise e Engenharia de dados.
-          - Buscando Aprender mais sobre DBT, Prefect, Airflow e melhorar meu conhecimento em Analytics.
+          - Buscando Aprender mais sobre DBT, Prefect, Airflow e melhorar meu conhecimento em Analytics e Estatística.
 - Stack:
     - Python, R
     - SQL: MySQL, SQL Server, PostgreSQL, Redshift, BigQuery
