@@ -6,13 +6,13 @@ Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e
     - Aluno agraciado com distinção Magna Cum Laude por excelente desempenho.
 - Entusiasta da área de dados desde 2021;
 - Atuo como Analista de Dados abrangendo diversas áreas, como:
-    - primeira infância;
-    - competências socioemocionais no ensino fundamental e anos finais;
-    - prevenção de criminalidade e violência;
-    - gestão em saúde suplementar;
-    - gestãi de transportes e mobilidade urbana.
+    - Primeira infância;
+    - Competências socioemocionais no ensino fundamental e anos finais;
+    - Prevenção de criminalidade e violência;
+    - Gestão em saúde suplementar;
+    - Transportes e mobilidade urbana.
 - Tenho pleno interesse na área de dados como um todo, mas com foco principal em Análise e Engenharia de dados.
-          - Buscando Aprender mais sobre DBT, Prefect, Airflow e melhorar meu conhecimento em Analytics e Estatística.
+          - No momento aprendendo mais sobre DBT, Prefect, Airflow.
 - Stack:
     - Python, R
     - SQL: MySQL, SQL Server, PostgreSQL, Redshift, BigQuery
