@@ -1,26 +1,27 @@
 ## Resumo geral
 
-Oi visitante! Me chamo Adriano, sou apaixonado por dados, economia, tecnologia e natureza. A curiosidade é o que me move e muitas vezes faz eu saber sobre os assuntos mais aleatórios possíveis! 
+Olá visitante! Me chamo Adriano, sou uma pessoa que tem grande facínio por dados, economia, tecnologia e natureza. A curiosidade é o que me move e muitas vezes me faz saber sobre os assuntos mais aleatórios possíveis!
 
-- Bacharel em Ciências Econômicas pela Universidade federadal do Ceará;
+- Bacharel em Ciências Econômicas pela Universidade Federal do Ceará.
     - Aluno agraciado com distinção Magna Cum Laude por excelente desempenho.
-- Entusiasta da área de dados desde 2021;
-- Atuo como Analista de Dados abrangendo diversas áreas, como:
+    - Entusiasta da área de dados desde 2021.
+- Atuei como Analista de Dados, abrangendo diversas áreas, como:
     - Primeira infância;
     - Competências socioemocionais no ensino fundamental e anos finais;
     - Prevenção de criminalidade e violência;
     - Gestão em saúde suplementar;
     - Transportes e mobilidade urbana.
-- Tenho pleno interesse na área de dados como um todo, mas com foco principal em Análise e Engenharia de dados.
-          - No momento aprendendo mais sobre DBT, Prefect, Airflow.
+- Tenho pleno interesse na área de dados como um todo, mas com foco principal em Análise e Engenharia de Dados.
+    - No momento, aprendendo mais sobre DBT, Prefect e Airflow.
+
 - Stack:
     - Python, R
-    - SQL: MySQL, SQL Server, PostgreSQL, Redshift, BigQuery
-    - Power BI, Looker Studio, Apache Superset, Tableau
+    - SQL: MySQL, SQL Server, PostgreSQL, Redshift e BigQuery
+    - Power BI, Looker Studio, Apache Superset e Tableau
     - AWS, GCP
-    - Git, GitHub
-    - Excel, Google Sheets
-    - Airflow, Docker - Básico
+    - Git e GitHub
+    - Excel e Google Sheets
+    - Airflow e Docker - Básico
     - Kanban - Azure DevOps/GitHub
     
 
