@@ -59,7 +59,7 @@ Olá visitante! Me chamo Adriano, sou uma pessoa que tem grande facínio por dad
 --- 
 
 ## Redes Sociais
-Me encontre nos seguintes perfis abaixo:
+Me encontre através das redes a seguir:
 - Linkedin
    <div id="badges">
     <a href = "https://www.linkedin.com/in/adrianomsn/">
