@@ -11,18 +11,15 @@ Olá visitante! Me chamo Adriano, sou uma pessoa que tem grande facínio por dad
     - Prevenção de criminalidade e violência;
     - Gestão em saúde suplementar;
     - Transportes e mobilidade urbana.
-- Tenho pleno interesse na área de dados como um todo, mas com foco principal em Análise e Engenharia de Dados.
-    - No momento, aprendendo mais sobre DBT, Prefect e Airflow.
 
 - Stack:
     - Python, R
     - SQL: MySQL, SQL Server, PostgreSQL, Redshift e BigQuery
-    - Power BI, Looker Studio, Apache Superset e Tableau
+    - Data Viz: Power BI, Looker Studio e Apache Superset
     - AWS, GCP
     - Git e GitHub
     - Excel e Google Sheets
-    - Airflow e Docker - Básico
-    - Kanban - Azure DevOps/GitHub
+    - Airflow e Docker
     
 
 
@@ -31,7 +28,7 @@ Olá visitante! Me chamo Adriano, sou uma pessoa que tem grande facínio por dad
 <img src = "banner.gif" width = "325px" align = "right">
 
 ---
-### Ferramentas e linguagens que domino:
+### Ferramentas e linguagens que já trabalhei:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -42,6 +39,9 @@ Olá visitante! Me chamo Adriano, sou uma pessoa que tem grande facínio por dad
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/looker.svg" title="Looker" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="AzureDevOps" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-superset.svg" title="Superset" width="60" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>&nbsp;
   
   
  
@@ -49,11 +49,10 @@ Olá visitante! Me chamo Adriano, sou uma pessoa que tem grande facínio por dad
 
 ### Ferramentas e linguagens que estou aprendendo no momento
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/fa1ea14ddfb1d5ae319d5141844910dd53ab2834/etc/dbt-core.svg" title="DBT" width="80" height="40"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt.svg" title="DBT" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-superset.svg" title="Superset" width="60" height="50"/>&nbsp;
+
+
  </div>
 
 --- 
