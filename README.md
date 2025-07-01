@@ -5,13 +5,16 @@ Olá visitante! Me chamo Adriano, sou uma pessoa que tem grande facínio por dad
 - Bacharel em Ciências Econômicas pela Universidade Federal do Ceará.
     - Aluno agraciado com distinção Magna Cum Laude por excelente desempenho.
     - Entusiasta da área de dados desde 2021.
-- Atuei como Analista de Dados, abrangendo diversas áreas, como:
+- Atuei na área de Dados, abrangendo diverso temas, como:
     - Primeira infância;
     - Competências socioemocionais no ensino fundamental e anos finais;
     - Prevenção de criminalidade e violência;
     - Gestão em saúde suplementar;
     - Transportes e mobilidade urbana.
-
+  
+- No momento com foco em aprofundar minhas experiências em engenheria de dados:
+    - Aprendendo DBT, Prefect, CI/CD, testes de integridade e afins.
+   
 - Stack:
     - Python, R
     - SQL: MySQL, SQL Server, PostgreSQL, Redshift e BigQuery
