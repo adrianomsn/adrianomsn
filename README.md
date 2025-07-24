@@ -17,12 +17,12 @@ Olá visitante! Me chamo Adriano, sou uma pessoa que tem grande facínio por dad
    
 - Stack:
     - Python, R
-    - SQL: MySQL, SQL Server, PostgreSQL, Redshift e BigQuery
+    - SQL: MySQL e PostgreSQL
     - Data Viz: Power BI, Looker Studio e Apache Superset
-    - AWS, GCP
+    - Data Warehouse: AWS (Redshift), GCP (BigQuery)
     - Git e GitHub
     - Excel e Google Sheets
-    - Airflow e Docker
+    - Airflow, Docker, DBT e Jinja
     
 
 
