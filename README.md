@@ -1,6 +1,6 @@
 ## Resumo geral
 
-Olá visitante! Me chamo Adriano, sou uma pessoa que tem grande facínio por dados, economia, tecnologia e natureza. A curiosidade é o que me move e muitas vezes me faz saber sobre os assuntos mais aleatórios possíveis!
+Olá visitante! Me chamo Adriano, profissionla da área de dados, formado em economia e extremamente interessado em dados, economia, tecnologia, cultura e meio ambiente. A curiosidade e a vontade de entender mais sobre como as coisas funcionam é o que me move e muitas vezes me faz saber sobre os assuntos mais aleatórios possíveis!
 
 - Bacharel em Ciências Econômicas pela Universidade Federal do Ceará.
     - Aluno agraciado com distinção Magna Cum Laude por excelente desempenho.
@@ -11,15 +11,12 @@ Olá visitante! Me chamo Adriano, sou uma pessoa que tem grande facínio por dad
     - Prevenção de criminalidade e violência;
     - Gestão em saúde suplementar;
     - Transportes e mobilidade urbana.
-  
-- No momento com foco em aprofundar minhas experiências em engenheria de dados:
-    - Aprendendo DBT, Prefect, CI/CD, testes de integridade e afins.
    
 - Stack:
     - Python, R
-    - SQL: MySQL e PostgreSQL
+    - Bancos Relacionais: MySQL e PostgreSQL
     - Data Viz: Power BI, Looker Studio e Apache Superset
-    - Data Warehouse: AWS (Redshift), GCP (BigQuery)
+    - Data Warehouse: AWS(Redshift), GCP(BigQuery)
     - Git e GitHub
     - Excel e Google Sheets
     - Airflow, Docker, DBT e Jinja
