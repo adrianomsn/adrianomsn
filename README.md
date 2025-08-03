@@ -1,6 +1,6 @@
-## Resumo geral
+## Resumo
 
-Olá visitante! Me chamo Adriano, profissionla da área de dados, formado em economia e extremamente interessado em dados, economia, tecnologia, cultura e meio ambiente. A curiosidade e a vontade de entender mais sobre como as coisas funcionam é o que me move e muitas vezes me faz saber sobre os assuntos mais aleatórios possíveis!
+Bem vindo ao meu perfil, atuo como profissional da área de dados há alguns anos, mas sou formado em economia e extremamente interessado em dados e como isso se relaciona com a economia, tecnologia, cultura, meio ambiente, política e entre outra infinidade de assuntos. A curiosidade e a vontade de entender mais sobre como as coisas funcionam é o que tem me movido e muitas vezes me fazendo saber sobre os assuntos mais aleatórios possíveis!
 
 - Bacharel em Ciências Econômicas pela Universidade Federal do Ceará.
     - Aluno agraciado com distinção Magna Cum Laude por excelente desempenho.
@@ -19,7 +19,7 @@ Olá visitante! Me chamo Adriano, profissionla da área de dados, formado em eco
     - Data Warehouse: AWS(Redshift), GCP(BigQuery)
     - Git e GitHub
     - Excel e Google Sheets
-    - Airflow, Docker, DBT e Jinja
+    - Airflow, Docker, DBT, Prefect e Jinja
     
 
 
@@ -30,7 +30,6 @@ Olá visitante! Me chamo Adriano, profissionla da área de dados, formado em eco
 ---
 ### Ferramentas e linguagens que já trabalhei:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio" width="40" height="40"/>&nbsp;
@@ -42,6 +41,7 @@ Olá visitante! Me chamo Adriano, profissionla da área de dados, formado em eco
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-superset.svg" title="Superset" width="60" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp; 
   
   
  
@@ -50,7 +50,7 @@ Olá visitante! Me chamo Adriano, profissionla da área de dados, formado em eco
 ### Ferramentas e linguagens que estou aprendendo no momento
 <div>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt.svg" title="DBT" width="80" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp; 
+
 
 
  </div>
