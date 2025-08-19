@@ -1,25 +1,25 @@
-## Resumo
+## Resume
 
-Bem vindo ao meu perfil, atuo como profissional da área de dados há alguns anos, mas sou formado em economia e extremamente interessado em dados e como isso se relaciona com a economia, tecnologia, cultura, meio ambiente, política e entre outra infinidade de assuntos. A curiosidade e a vontade de entender mais sobre como as coisas funcionam é o que tem me movido e muitas vezes me fazendo saber sobre os assuntos mais aleatórios possíveis!
+Welcome dear stranger!  
+I do data and love talking about everything that interests me, such as politics, economics, geek culture, technology, nature, my family, and much more.
 
-- Bacharel em Ciências Econômicas pela Universidade Federal do Ceará.
-    - Aluno agraciado com distinção Magna Cum Laude por excelente desempenho.
-    - Entusiasta da área de dados desde 2021.
-- Atuei na área de Dados, abrangendo diverso temas, como:
-    - Primeira infância;
-    - Competências socioemocionais no ensino fundamental e anos finais;
-    - Prevenção de criminalidade e violência;
-    - Gestão em saúde suplementar;
-    - Transportes e mobilidade urbana.
-   
+- Bachelor's degree in Economics from the Federal University of Ceará (UFC).
+    - Magna Cum Laude distinction for excellent performance.
+- I have worked in the field of Data, covering various topics, such as:
+    - Early childhood;
+    - Social-emotional skills in elementary and middle school;
+    - Crime and violence prevention;
+    - Supplementary health management;
+    - Transportation and urban mobility.
+
 - Stack:
     - Python, R
-    - Bancos Relacionais: MySQL e PostgreSQL
-    - Data Viz: Power BI, Looker Studio e Apache Superset
-    - Data Warehouse: AWS(Redshift), GCP(BigQuery)
-    - Git e GitHub
-    - Excel e Google Sheets
-    - Airflow, Docker, DBT, Prefect e Jinja
+    - Relational Databases: MySQL and PostgreSQL
+    - Data Viz: Power BI, Looker Studio, and Apache Superset
+    - Data Warehouse: AWS (Redshift), GCP (BigQuery)
+    - Git and GitHub
+    - Excel and Google Sheets
+    - Airflow, Docker, DBT, Prefect, and Jinja
     
 
 
@@ -28,7 +28,7 @@ Bem vindo ao meu perfil, atuo como profissional da área de dados há alguns ano
 <img src = "banner.gif" width = "325px" align = "right">
 
 ---
-### Ferramentas e linguagens que já trabalhei:
+### Tools and langs that i have been working with:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@ Bem vindo ao meu perfil, atuo como profissional da área de dados há alguns ano
  
 
 
-### Ferramentas e linguagens que estou aprendendo no momento
+### Tools and langs that i have been learning:
 <div>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt.svg" title="DBT" width="80" height="40"/>&nbsp;
 
@@ -57,8 +57,8 @@ Bem vindo ao meu perfil, atuo como profissional da área de dados há alguns ano
 
 --- 
 
-## Redes Sociais
-Me encontre através das redes a seguir:
+## Social Media
+You can find me on the profiles below:
 - Linkedin
    <div id="badges">
     <a href = "https://www.linkedin.com/in/adrianomsn/">
