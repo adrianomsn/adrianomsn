@@ -27,33 +27,6 @@ I do data and love talking about everything that interests me, such as politics,
 </div>
 <img src = "banner.gif" width = "325px" align = "right">
 
----
-### Tools and langs that i have been working with:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/looker.svg" title="Looker" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="AzureDevOps" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-superset.svg" title="Superset" width="60" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp; 
-  
-  
- 
-
-
-### Tools and langs that i have been learning:
-<div>
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt.svg" title="DBT" width="80" height="40"/>&nbsp;
-
-
-
- </div>
 
 --- 
 
