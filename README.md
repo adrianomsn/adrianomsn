@@ -1,11 +1,11 @@
 ## Resume
 
 Welcome dear stranger!  
-I do data and love talking about everything that interests me, such as politics, economics, geek culture, technology, nature, my family, and much more.
+I work with data and love talking about all kinds of things that interest me, such as politics, economics, geek culture, technology, nature and my family.
 
 - Bachelor's degree in Economics from the Federal University of Ceará (UFC).
     - Magna Cum Laude distinction for excellent performance.
-- I have worked in the field of Data, as Data Analyst and Data Engineer since 2021.
+- Since 2021, I have worked in the data field as a data analyst and data engineer.
 - My main job responsibilities:
     - Maintenance and development of pipelines using Python, SQL, dbt, Prefect and GCP;
     - Statistical data analysis to inform stakeholder decision-making and the development of KPIs, etc.
@@ -17,7 +17,7 @@ I do data and love talking about everything that interests me, such as politics,
 --- 
 
 ## Social Media
-You can find me on the profiles below:
+You can find my profiles on other social medias platforms below:
 - Linkedin
    <div id="badges">
     <a href = "https://www.linkedin.com/in/adrianomsn/">
